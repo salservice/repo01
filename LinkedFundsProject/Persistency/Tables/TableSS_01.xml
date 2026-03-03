@@ -2,14 +2,15 @@
 <Table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>TableSS_01</Name>
   <Parent />
-  <Previous>TableLT_03</Previous>
+  <Previous>TableLT_02</Previous>
   <LastModifiedBy>LawrenceTsang</LastModifiedBy>
-  <LastModifiedOn>2026-03-03T15:13:08.0361347+00:00</LastModifiedOn>
+  <LastModifiedOn>2026-03-03T15:12:26.7071133+00:00</LastModifiedOn>
   <CreatedBy>LawrenceTsang</CreatedBy>
   <CreatedOn>2026-02-23T00:47:06.8768718+00:00</CreatedOn>
   <Folder>false</Folder>
-  <LastModified>2026-03-03T15:13:08.0361347+00:00</LastModified>
+  <LastModified>2026-03-03T15:12:26.7071133+00:00</LastModified>
   <Notes />
+  <OpeningInformation />
   <IsExpanded>true</IsExpanded>
   <IsProjectTable>true</IsProjectTable>
   <IsDataSource>false</IsDataSource>
